@@ -48,13 +48,12 @@ PROJECT TEAM:
 Team Name       :  Error_404
 
 
-Team Members :  Mayank Mohan 
+Team Members :  
+                Mayank Mohan 
                 
-								Pranjal Mehrotra
-                
-								Adarsh Bisht
-                
-								Gaurav Joshi 
+		Pranjal Mehrotra
+         	Adarsh Bisht
+    		Gaurav Joshi 
                             
 
 PROJECT SCHEDULE:
