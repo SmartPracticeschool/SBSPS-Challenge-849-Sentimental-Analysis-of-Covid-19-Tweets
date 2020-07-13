@@ -34,16 +34,22 @@ The important tool that is required to get the output from twitter is the API ke
 The API key which is used to fetch the tweets from the twitter to generate the sentiment analysis.
 
 SOFTWARE REQUIREMENTS:
+
 IBM Cloud Services
 Twitter API key
 Python Programming
 
 
 PROJECT DELIVERABLES:
+
 The ouput of the sentiment analysis is showed in the dashboard The dashboard is created using the nodered applicaton.
 UI is used here.
 PROJECT TEAM:
+
+
 Team Name       :  Error_404
+
+
 Team Members :  Mayank Mohan 
                 Pranjal Mehrotra
                 Adarsh Bisht
