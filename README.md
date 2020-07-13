@@ -49,9 +49,9 @@ Team Name       :  Error_404
 
 
 Team Members :  
-                Mayank Mohan 
-		Pranjal Mehrotra
-         	Adarsh Bisht
+                Mayank Mohan,
+		Pranjal Mehrotra,
+         	Adarsh Bisht,
     		Gaurav Joshi 
                             
 
